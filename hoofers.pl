@@ -8,6 +8,7 @@
 
 %% Answer: Ellen.
 
+
 hoofer(tony).
 hoofer(shikuo).
 hoofer(ellen).
